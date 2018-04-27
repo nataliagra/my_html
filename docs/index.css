@@ -12,7 +12,7 @@ body {
 .one {
    
   grid-area: 1/1/4/4;
-  background-image: url(https://static1.squarespace.com/static/550ba261e4b0215d222516fe/t/552012fee4b02bbbd561440e/1428165393729/musictheory.jpg?format=1500w);   
+  background-image: url(http://static1.squarespace.com/static/55777f58e4b0c6cf0d94ff0a/t/562ffd83e4b064f49ce517ac/1523858318117/);   
   background-size:contain;
   background-position: top left;
   }
@@ -36,11 +36,11 @@ body {
 }
 .four {
   grid-area:4/3/5/4;
-  background-image: url(https://i.wpimg.pl/730x0/m.gadzetomania.pl/muzyka00-302485-3fcf95f114ffe16a.jpg);
+  background-image: url(https://www.flychord.com/wp-content/uploads/2017/01/piano-notes-for-beginners-03-1.jpg);
 }
 .five {
   grid-area:5/3/7/6;
-  background-image: url(https://www.flychord.com/wp-content/uploads/2017/01/piano-notes-for-beginners-03-1.jpg);
+  background-image: url(https://i.pinimg.com/originals/76/2f/5c/762f5cb106eb3c1ad7fd4e7104491348.jpg);
   background-size:cover;
   background-position: top left;
 }
