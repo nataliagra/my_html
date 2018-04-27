@@ -1,4 +1,4 @@
 # my_html
-Gdynia
 
-Moje HTML o Elementach muzyki
+*[Elementy muzyki]
+*[Moje HTML o Elementach muzyki]
