@@ -13,7 +13,7 @@ body {
    
   grid-area: 1/1/4/4;
   background-image: url(http://static1.squarespace.com/static/55777f58e4b0c6cf0d94ff0a/t/562ffd83e4b064f49ce517ac/1523858318117/);   
-  background-size:contain;
+  background-size:cover;
   background-position: top left;
   }
 
@@ -37,6 +37,7 @@ body {
 .four {
   grid-area:4/3/5/4;
   background-image: url(https://www.flychord.com/wp-content/uploads/2017/01/piano-notes-for-beginners-03-1.jpg);
+  background-size:cover;
 }
 .five {
   grid-area:5/3/7/6;
