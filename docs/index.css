@@ -12,7 +12,7 @@ body {
 .one {
    
   grid-area: 1/1/4/4;
-  background-image: url(http://9fm.pl/wp-content/uploads/2017/06/ELEMENTY-DZIE%C5%81A-MUZYCZNEGO.jpg);   
+  background-image: url(https://static1.squarespace.com/static/550ba261e4b0215d222516fe/t/552012fee4b02bbbd561440e/1428165393729/musictheory.jpg?format=1500w);   
   background-size:cover;
   background-position: top left;
   }
@@ -36,7 +36,7 @@ body {
 }
 .four {
   grid-area:4/3/5/4;
-  background-image: url(https://images.unsplash.com/photo-1513569369873-3f6af50652bf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b4b1a9bd2a3a0641bf963f4c22fe80da&auto=format&fit=crop&w=600&q=60);
+  background-image: url(http://9fm.pl/wp-content/uploads/2017/06/ELEMENTY-DZIE%C5%81A-MUZYCZNEGO.jpg);
 }
 .five {
   grid-area:5/3/7/6;
