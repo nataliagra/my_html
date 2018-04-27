@@ -30,13 +30,13 @@ body {
 }
 .three {
   grid-area:4/1/7/3;
-  background-image:url(https://static1.squarespace.com/static/563a9b19e4b0779f72418ae0/t/5644df60e4b0be9b03744930/1447354211005/color-people.jpg?format=2500w); 
+  background-image:url(https://images.unsplash.com/photo-1483032711911-cfd45aabc9a0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0f325e3551b14a70f306c0c4a4e3b46e&auto=format&fit=crop&w=750&q=80); 
   background-size:cover;
  
 }
 .four {
   grid-area:4/3/5/4;
-  background-image: url(https://images.unsplash.com/photo-1483032711911-cfd45aabc9a0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0f325e3551b14a70f306c0c4a4e3b46e&auto=format&fit=crop&w=750&q=80);
+  background-image: url(https://www.flychord.com/wp-content/uploads/2017/01/piano-notes-for-beginners-03-1.jpg);
   background-size:cover;
 }
 .five {
