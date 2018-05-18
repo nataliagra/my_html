@@ -47,7 +47,7 @@ Porządkuje współbrzmienie dźwięków w utworze.
 
 image::harmonia.jpg[c700x420,550]
 
-== [green]#Kolorystyka#
+== Kolorystyka
 
 Pozwala na dostrzeganie różnic między dźwiękami o tej samej wysokości zaśpiewanymi lub zagranymi przez różne instrumenty lub głosy.
 
@@ -59,9 +59,9 @@ Decyduje o szybkości wykonania utworu.
 
 * Najczęściej stosowane tempa i ich włoskie nazwy to:
 
-*Tempa wolne*
+[%Tempa wolne,format=csv]
 |===
-| **largo**	|  – szeroko, bardzo powoli
+| largo	|  – szeroko, bardzo powoli
 | lento 	|  – powoli, wolno
 | adagio	|  – wolno, powoli
 | grave	|  – poważnie, ciężko, wolno
