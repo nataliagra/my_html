@@ -78,13 +78,19 @@ Decyduje o szybkości wykonania utworu.
 |===
 
 
+== Dynamika
+Określa głośność, czyli siłę dźwięku.
 
+** Najczęściej stosowane określenia dynamiczne to:
+|===
+| pp pianissimo	|  – bardzo cicho
+| p piano 	      |  – cicho
+| mp mezzo piano	|  – na wpół cicho, prawie cicho
+| mf mezzo forte  |  – średnio głośno
+| f forte         |  – głośno
+| ff fortissimo   |  – bardzo głośno
+|===
 
-
-
-
-== Jakoś powietrza w Krakowie
-Stacje kontroli i monitorowania powietrza:
 
 ** http://monitoring.krakow.pios.gov.pl/dane-pomiarowe/automatyczne
 
