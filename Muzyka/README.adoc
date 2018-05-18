@@ -29,7 +29,7 @@ To element muzyki wyrażający się w sposobie wydobycia i łączenia dźwiękó
 
     ** Trzy podstawowe rodzaje artykulacji:
 •	legato, czyli łącząc płynnie ze sobą dźwięki, 
-•	staccato, czyli odrywając je, grając krótko i ostro, oraz 
+•	staccato, czyli odrywając je, grając krótko i ostro,
 •	portato, czyli w sposób pośredni między legato a staccato.
 
 image::artykulacja.jpg[c700x420,550]
