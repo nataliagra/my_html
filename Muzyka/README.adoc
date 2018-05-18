@@ -43,7 +43,7 @@ image::melodia.jpg[c700x420,550]
 == Harmonia
 
 Porządkuje współbrzmienie dźwięków w utworze.
-Nadaje muzyce określony charakter i nastrój.
+`*Nadaje muzyce określony charakter i nastrój.*`
 
 image::harmonia.jpg[c700x420,550]
 
