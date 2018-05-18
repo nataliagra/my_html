@@ -21,14 +21,14 @@ image::Nuty.jpg[c700x420,550]
 To element muzyki wyznaczający proporcje czasu trwania dźwięków i przerw między nimi, czyli pauz. 
 
 
-    ** Podstawową jednostką rytmu jest wartość rytmiczna, a podstawową wartością rytmiczną jest cała nuta.
+    ** Podstawową jednostką rytmu jest *wartość rytmiczna*, a podstawową wartością rytmiczną jest *cała nuta*.
        
 == Artykulacja
 
 To element muzyki wyrażający się w sposobie wydobycia i łączenia dźwięków.
 
     ** Trzy podstawowe rodzaje artykulacji:
-•	legato, czyli łącząc płynnie ze sobą dźwięki, 
+•	'legato', czyli łącząc płynnie ze sobą dźwięki, 
 •	staccato, czyli odrywając je, grając krótko i ostro,
 •	portato, czyli w sposób pośredni między legato a staccato.
 
