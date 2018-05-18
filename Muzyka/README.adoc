@@ -82,7 +82,7 @@ Decyduje o szybkości wykonania utworu.
 | presto 	|  – szybko
 |===
 
-** https://www.youtube.com/watch?v=2UphAzryVpY [Tempo i rytm w muzyce]
+** https://www.youtube.com/watch?v=2UphAzryVpY[Tempo i rytm w muzyce]
 
 == Dynamika
 Określa głośność, czyli siłę dźwięku.
