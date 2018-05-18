@@ -60,12 +60,12 @@ Decyduje o szybkości wykonania utworu.
 * Najczęściej stosowane tempa i ich włoskie nazwy to:
 
 *Tempa wolne*
-| ===
+|===
 | largo	|  – szeroko, bardzo powoli
 | lento 	|  – powoli, wolno
 | adagio	|  – wolno, powoli
 | grave	|  – poważnie, ciężko, wolno
-| ===
+|===
 
 *Tempa umiarkowane*
 |===
@@ -88,14 +88,14 @@ Decyduje o szybkości wykonania utworu.
 Określa głośność, czyli siłę dźwięku.
 
 ** Najczęściej stosowane określenia dynamiczne to:
-|===
+:===
 | pp pianissimo	|  – bardzo cicho
 | p piano 	      |  – cicho
 | mp mezzo piano	|  – na wpół cicho, prawie cicho
 | mf mezzo forte  |  – średnio głośno
 | f forte         |  – głośno
 | ff fortissimo   |  – bardzo głośno
-|===
+:===
 
 
 ** https://www.youtube.com/watch?v=9q6Dlw-beUI[Dynamika w zespole]
