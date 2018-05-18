@@ -1,4 +1,4 @@
-= _Wspaniały, Kraków !!!_ 
+= _Elementy dzieła muzycznego_ 
 
 image::c700x420.jpg[c700x420,550]
 
