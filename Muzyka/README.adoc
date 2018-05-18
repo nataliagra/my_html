@@ -52,7 +52,7 @@ Pozwala na dostrzeganie różnic między dźwiękami o tej samej wysokości zaś
 
 Decyduje o szybkości wykonania utworu.
 
-[x] Najczęściej stosowane tempa i ich włoskie nazwy to:
+* Najczęściej stosowane tempa i ich włoskie nazwy to:
 
 *Tempa wolne
 |===
