@@ -10,13 +10,13 @@ http://krakow.pl/zalacznik/19943/4.jpg[Kraków]
 * [x] <http://www.bip.krakow.pl/>
 
 * [x] <http://www.krakow.pl>
-* [x] Rytmika
-* [x]Artykulacja
-* [x]Melodyka
-* [x]	Harmonia
-* [x]Kolorystyka
-* [x]Agogika
-* [x]Dynamika
+*  Rytmika
+* Artykulacja
+* Melodyka
+* Harmonia
+* Kolorystyka
+* Agogika
+* Dynamika
 
 Urząd Miasta Krakowa
 
