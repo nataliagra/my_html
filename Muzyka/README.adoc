@@ -2,8 +2,8 @@
 
 image::Nuty.jpg[c700x420,550]
 
-** [x]https://www.youtube.com/watch?v=B2NT-EHmJ28[Elementy muzyki]
-** [x] https://www.youtube.com/watch?v=ZN41d7Txcq0 [Jak czytać muzykę?]
+** [x] https://www.youtube.com/watch?v=B2NT-EHmJ28[Elementy muzyki]
+** [x] https://www.youtube.com/watch?v=ZN41d7Txcq0[Jak czytać muzykę?]
 
 
 
