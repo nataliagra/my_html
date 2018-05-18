@@ -55,6 +55,7 @@ Decyduje o szybkości wykonania utworu.
 == Najczęściej stosowane tempa i ich włoskie nazwy to:
 
 |===
+| Tempa wolne
 | largo	|  – szeroko, bardzo powoli
 | lento 	|  – powoli, wolno
 | adagio	|  – wolno, powoli
