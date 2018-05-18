@@ -59,7 +59,7 @@ Decyduje o szybkości wykonania utworu.
 
 * Najczęściej stosowane tempa i ich włoskie nazwy to:
 
-<p><strong>Tempa wolne</strong></p>
+*Tempa wolne*
 |===
 | largo	|  – szeroko, bardzo powoli
 | lento 	|  – powoli, wolno
@@ -67,14 +67,14 @@ Decyduje o szybkości wykonania utworu.
 | grave	|  – poważnie, ciężko, wolno
 |===
 
-*Tempa umiarkowane
+*Tempa umiarkowane*
 |===
 | andante	|  – z wolna, w tempie spokojnego kroku
 | moderato	|  – umiarkowanie
 | allegretto|  – dość żywo ( nieco wolniej niż allegro)
 |===
 
-*Tempa szybkie
+*Tempa szybkie*
 |===
 | allegro	|  – prędko, ruchliwie, wesoło
 | vivo	   |  – żywo
