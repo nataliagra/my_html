@@ -59,13 +59,13 @@ Decyduje o szybkości wykonania utworu.
 
 * Najczęściej stosowane tempa i ich włoskie nazwy to:
 
-[%Tempa wolne,format=csv]
-|===
+*Tempa wolne*[%header,format=csv]
+: ===
 | largo	|  – szeroko, bardzo powoli
 | lento 	|  – powoli, wolno
 | adagio	|  – wolno, powoli
 | grave	|  – poważnie, ciężko, wolno
-|===
+: ===
 
 *Tempa umiarkowane*
 |===
