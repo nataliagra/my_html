@@ -18,19 +18,6 @@ https://www.youtube.com/watch?v=B2NT-EHmJ28[Elementy muzyki]
 
 * [x] <http://www.krakow.pl>
 
-Urząd Miasta Krakowa
-
-Plac Wszystkich Świętych 3-4,
-31-004 Kraków
-
-Centralna Informacja UMK
-
-tel.: 12 616 12 00, 12 616 12 07
-
-faks: 12 616 17 21
-
-
-
 
 == Rytmika
 
@@ -48,14 +35,30 @@ To element muzyki wyrażający się w sposobie wydobycia i łączenia dźwiękó
 •	staccato, czyli odrywając je, grając krótko i ostro, oraz 
 •	portato, czyli w sposób pośredni między legato a staccato.
 
+== Melodyka
 
-== Ludność Miasta na przestrzeni lat:
+Przejawia się w uporządkowanym przez kompozytora zbiorze dźwięków występujących po sobie.
+
+== Harmonia
+
+Porządkuje współbrzmienie dźwięków w utworze.
+Nadaje muzyce określony charakter i nastrój.
+
+== Kolorystyka
+
+Pozwala na dostrzeganie różnic między dźwiękami o tej samej wysokości zaśpiewanymi lub zagranymi przez różne instrumenty lub głosy.
+
+== Agogika
+
+Decyduje o szybkości wykonania utworu.
+
+== Najczęściej stosowane tempa i ich włoskie nazwy to:
 
 |===
-| 2004 r.	|  – 706 806
-| 2005 r.	|  – 706 381 ↓
-| 2006 r.	|  – 704 859 ↓
-| 2007 r.	|  – 705 408 ↑
+| largo	|  – szeroko, bardzo powoli
+| lento 	|  – powoli, wolno
+| adagio	|  – wolno, powoli
+| grave	|  – poważnie, ciężko, wolno
 | 2009 r.	|  – 703 357 ↓
 | 2011 r.	|  – 704 822 ↑
 | 2012 r.	|  – 704 622 ↓
@@ -64,6 +67,13 @@ To element muzyki wyrażający się w sposobie wydobycia i łączenia dźwiękó
 | 2015 r.	|  – 703 746 ↓
 | 2016 r.	|  – 702 947 ↓
 |===
+
+•	largo – szeroko, bardzo powoli
+•	 powoli, wolno
+•	adagio –  wolno, powoli
+•	grave – poważnie, ciężko, wolno
+
+
 
 
 == Jakoś powietrza w Krakowie
