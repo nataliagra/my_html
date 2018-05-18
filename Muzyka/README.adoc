@@ -1,6 +1,6 @@
 = _Elementy dzieła muzycznego_ 
 
-image::https://github.com/nataliagra/my_html/blob/master/Muzyka/Nuty.jpg
+image::Nuty.jpgc700x420,550]
 
 http://krakow.pl/zalacznik/19943/4.jpg[Kraków]
 
