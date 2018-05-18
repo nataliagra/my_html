@@ -2,14 +2,10 @@
 
 image::Nuty.jpg[c700x420,550]
 
-http://krakow.pl/zalacznik/19943/4.jpg[Kraków]
+https://www.youtube.com/watch?v=B2NT-EHmJ28[Elementy muzyki]
 
 
 == W skład dzieła muzycznego wchodzą:
-
-* [x] <http://www.bip.krakow.pl/>
-
-* [x] <http://www.krakow.pl>
 *  Rytmika
 * Artykulacja
 * Melodyka
@@ -17,6 +13,10 @@ http://krakow.pl/zalacznik/19943/4.jpg[Kraków]
 * Kolorystyka
 * Agogika
 * Dynamika
+
+* [x] <http://www.bip.krakow.pl/>
+
+* [x] <http://www.krakow.pl>
 
 Urząd Miasta Krakowa
 
