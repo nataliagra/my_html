@@ -36,18 +36,25 @@ To element muzyki wyrażający się w sposobie wydobycia i łączenia dźwiękó
 •	portato, czyli w sposób pośredni między legato a staccato.
 
 image::artykulacja.jpg[c700x420,550]
+
 == Melodyka
 
 Przejawia się w uporządkowanym przez kompozytora zbiorze dźwięków występujących po sobie.
+
+image::melodia.jpg[c700x420,550]
 
 == Harmonia
 
 Porządkuje współbrzmienie dźwięków w utworze.
 Nadaje muzyce określony charakter i nastrój.
 
+image::harmonia.jpg[c700x420,550]
+
 == Kolorystyka
 
 Pozwala na dostrzeganie różnic między dźwiękami o tej samej wysokości zaśpiewanymi lub zagranymi przez różne instrumenty lub głosy.
+
+image::kolorystyka.jpg[c700x420,550]
 
 == Agogika
 
@@ -78,6 +85,7 @@ Decyduje o szybkości wykonania utworu.
 | presto 	|  – szybko
 |===
 
+image::tempo.jpg[c700x420,550]
 
 == Dynamika
 Określa głośność, czyli siłę dźwięku.
@@ -92,6 +100,7 @@ Określa głośność, czyli siłę dźwięku.
 | ff fortissimo   |  – bardzo głośno
 |===
 
+image::dynamika.jpg[c700x420,550]
 
 ** http://monitoring.krakow.pios.gov.pl/dane-pomiarowe/automatyczne
 
