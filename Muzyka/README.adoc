@@ -2,7 +2,9 @@
 
 image::Nuty.jpg[c700x420,550]
 
-https://www.youtube.com/watch?v=B2NT-EHmJ28[Elementy muzyki]
+** [x]https://www.youtube.com/watch?v=B2NT-EHmJ28[Elementy muzyki]
+** [x] https://www.youtube.com/watch?v=ZN41d7Txcq0 [Jak czytać muzykę?]
+
 
 
 == W skład dzieła muzycznego wchodzą:
@@ -105,38 +107,7 @@ Określa głośność, czyli siłę dźwięku.
 
 
 
-== Logo Krakowa:
-
-[#img-logo krakowa] 
-
-http://www.krakow.pl/zalacznik/275057/4.jpg[LOGO]
-
-image::4.jpg[c350x210,225]
 
 
-== Dzielnice miasta:
-Miasto dzieli się na 18 dzielnic o różnej powieszchni i liczbie miaszkańców.
 
-
-|====
-| Nazwa dzielnicy | Powierzchnia w ha | Liczba mieszkańców
-| Dzielnica I Stare Miasto | 556,76 | 35 573
-| Dzielnica II Grzegórzki	| 584,52 | 29 230
-| Dzielnica III	| 643,79 | 47 775	
-| Dzielnica	IV | 2341,87 | 69 135	
-| Dzielnica	V | 561,90 | 31 870	
-| Dzielnica	VI | 955,96 | 23 465	
-| Dzielnica VII | 2873,10 | 20 454	
-| Dzielnica VIII | 4618,87 | 59 395	
-| Dzielnica IX	| 541,51 | 14 859	
-| Dzielnica X	| 2560,40 | 25 608	
-| Dzielnica XI	| 954,00	| 52 859	
-| Dzielnica	XII | 1847,39 | 63 026	
-| Dzielnica	XIII | 2566,71 | 34 045	
-| Dzielnica	XIV | 1225,68 | 26 699	
-| Dzielnica XV | 559,00 | 53 015	
-| Dzielnica XVI | 369,90 | 42 633	
-| Dzielnica XVII | 2381,55 | 20 303	
-| Dzielnica XVIII	| 6540,99 | 54 588	
-|===
 
