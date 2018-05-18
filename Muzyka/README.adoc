@@ -1,15 +1,22 @@
 = _Elementy dzieła muzycznego_ 
 
-image::c700x420.jpg[c700x420,550]
+image::http://static.prsa.pl/images/122b25b9-2c5c-4490-9df9-4a65009fbd50.jpg]
 
 http://krakow.pl/zalacznik/19943/4.jpg[Kraków]
 
 
-== Urząd Miasta Kraków:
+== W skład dzieła muzycznego wchodzą:
 
 * [x] <http://www.bip.krakow.pl/>
 
 * [x] <http://www.krakow.pl>
+* [x] Rytmika
+* [x]Artykulacja
+* [x]Melodyka
+* [x]	Harmonia
+* [x]Kolorystyka
+* [x]Agogika
+* [x]Dynamika
 
 Urząd Miasta Krakowa
 
