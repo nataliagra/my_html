@@ -54,25 +54,31 @@ Decyduje o szybkości wykonania utworu.
 
 == Najczęściej stosowane tempa i ich włoskie nazwy to:
 
-**Tempa wolne
+*Tempa wolne
 |===
 | largo	|  – szeroko, bardzo powoli
 | lento 	|  – powoli, wolno
 | adagio	|  – wolno, powoli
 | grave	|  – poważnie, ciężko, wolno
-| 2009 r.	|  – 703 357 ↓
-| 2011 r.	|  – 704 822 ↑
-| 2012 r.	|  – 704 622 ↓
-| 2013 r.	|  – 704 228 ↓
-| 2014 r.	|  – 704 532 ↑
-| 2015 r.	|  – 703 746 ↓
-| 2016 r.	|  – 702 947 ↓
 |===
 
-•	largo – szeroko, bardzo powoli
-•	 powoli, wolno
-•	adagio –  wolno, powoli
-•	grave – poważnie, ciężko, wolno
+*Tempa umiarkowane
+|===
+| andante	|  – z wolna, w tempie spokojnego kroku
+| moderato	|  – umiarkowanie
+| allegretto|  – dość żywo ( nieco wolniej niż allegro)
+|===
+
+*Tempa szybkie
+|===
+| allegro	|  – prędko, ruchliwie, wesoło
+| vivo	   |  – żywo
+| vivace 	|  – prędko, z ożywieniem
+| presto 	|  – szybko
+|===
+
+
+
 
 
 
