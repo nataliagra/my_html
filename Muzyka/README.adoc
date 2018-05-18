@@ -76,7 +76,6 @@ Decyduje o szybkości wykonania utworu.
 
 :===
 *Tempa szybkie*
-:===
 |===
 | allegro	|  – prędko, ruchliwie, wesoło
 | vivo	   |  – żywo
