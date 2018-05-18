@@ -32,17 +32,22 @@ faks: 12 616 17 21
 
 
 
-== Powierzchnia:
+== Rytmika
 
-POWIERZCHNIA MIASTA - 326,85 km².
+To element muzyki wyznaczający proporcje czasu trwania dźwięków i przerw między nimi, czyli pauz. 
 
-    ** Wysokość, na której leży	188–383 m n.p.m.
 
-POPULACJA MIASTA (stan na 31.12.2017).
+    ** Podstawową jednostką rytmu jest wartość rytmiczna, a podstawową wartością rytmiczną jest cała nuta.
 
-    ** Gęstość	2347,7 os./km².
+== Artykulacja
 
-    ** Liczba ludności 767348 osób.
+To element muzyki wyrażający się w sposobie wydobycia i łączenia dźwięków.
+
+    ** Trzy podstawowe rodzaje artykulacji:
+•	legato, czyli łącząc płynnie ze sobą dźwięki, 
+•	staccato, czyli odrywając je, grając krótko i ostro, oraz 
+•	portato, czyli w sposób pośredni między legato a staccato.
+
 
 == Ludność Miasta na przestrzeni lat:
 
