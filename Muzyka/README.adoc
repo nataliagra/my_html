@@ -85,7 +85,7 @@ Decyduje o szybkości wykonania utworu.
 | presto 	|  – szybko
 |===
 
-image::tempo.jpg[c700x420,550]
+image::tempo.png[c700x420,550]
 
 == Dynamika
 Określa głośność, czyli siłę dźwięku.
