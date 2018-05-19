@@ -38,7 +38,7 @@ image::artykulacja.jpg[c700x420,550]
 
 Przejawia się w uporządkowanym przez kompozytora zbiorze dźwięków występujących po sobie.
 
-image::melodia.jpg[c1000x420,250]
+image::melodia.jpg[c700x420,300]
 
 == Harmonia
 
@@ -102,7 +102,7 @@ Określa *głośność*, czyli siłę dźwięku.
 
 
 
-
+The current version of the application is {appversion}.
 
 
 
