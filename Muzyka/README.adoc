@@ -38,7 +38,7 @@ image::artykulacja.jpg[c700x420,550]
 
 Przejawia się w uporządkowanym przez kompozytora zbiorze dźwięków występujących po sobie.
 
-image::melodia.jpg[c400x220,550]
+image::melodia.jpg[c400x220,450]
 
 == Harmonia
 
@@ -51,7 +51,7 @@ image::harmonia.jpg[c700x420,550]
 
 Pozwala na dostrzeganie różnic między dźwiękami o tej samej wysokości zaśpiewanymi lub zagranymi przez różne instrumenty lub głosy.
 
-image::kolorystyka.jpg[c700x420,350]
+image::kolorystyka.jpg[c700x420,550]
 
 == Agogika
 
