@@ -47,6 +47,7 @@ Porządkuje współbrzmienie dźwięków w utworze.
 `*Nadaje muzyce określony charakter i nastrój.*`
 
 image::harmonia.jpg[c700x420,550]
+** https://www.youtube.com/watch?v=JXhAz0DOpMU[Masterpiece]
 
 == Kolorystyka
 
