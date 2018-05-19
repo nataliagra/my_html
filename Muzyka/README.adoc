@@ -55,7 +55,7 @@ image::kolorystyka.jpg[c700x420,550]
 
 == Agogika
 
-Decyduje o szybkości wykonania utworu.
+Decyduje o *szybkości* wykonania utworu.
 
 * Najczęściej stosowane tempa i ich włoskie nazwy to:
 
@@ -85,7 +85,7 @@ Decyduje o szybkości wykonania utworu.
 ** https://www.youtube.com/watch?v=2UphAzryVpY[Tempo i rytm w muzyce]
 
 == Dynamika
-Określa :=== głośność:===, czyli siłę dźwięku.
+Określa *głośność*, czyli siłę dźwięku.
 
 ** Najczęściej stosowane określenia dynamiczne to:
 |===
