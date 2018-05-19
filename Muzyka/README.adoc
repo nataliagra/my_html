@@ -25,7 +25,7 @@ To element muzyki wyznaczający proporcje czasu trwania dźwięków i przerw mi�
        
 == Artykulacja
 
-To element muzyki wyrażający się w sposobie wydobycia i łączenia dźwięków.
+****To element muzyki wyrażający się w sposobie wydobycia i łączenia dźwięków.
 
     ** Trzy podstawowe rodzaje artykulacji:
 •	`legato`, czyli łącząc płynnie ze sobą dźwięki, 
@@ -101,15 +101,10 @@ Określa *głośność*, czyli siłę dźwięku.
 ** https://www.youtube.com/watch?v=9q6Dlw-beUI[Dynamika w zespole]
 
 
-
-= Lightweight Markup Languages
-
-According to Wikipedia...
-
-= User Guide
-Doc Writer <doc.writer@asciidoc.org>
-2012-01-01
-:appversion: 1.0.0
+----
+This is an example of a _listing block_.
+The content inside is displayed as <pre> text.
+----
 
 
 
