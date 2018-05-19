@@ -85,7 +85,7 @@ Decyduje o szybkości wykonania utworu.
 ** https://www.youtube.com/watch?v=2UphAzryVpY[Tempo i rytm w muzyce]
 
 == Dynamika
-Określa głośność, czyli siłę dźwięku.
+Określa :=== głośność:===, czyli siłę dźwięku.
 
 ** Najczęściej stosowane określenia dynamiczne to:
 |===
@@ -97,9 +97,9 @@ Określa głośność, czyli siłę dźwięku.
 | ff fortissimo   |  – bardzo głośno
 |===
 
-:===
+
 ** https://www.youtube.com/watch?v=9q6Dlw-beUI[Dynamika w zespole]
-:===
+
 
 
 
