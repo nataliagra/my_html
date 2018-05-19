@@ -1,5 +1,5 @@
 # my_html
 
-Elementy muzyki
+* [Elementy muzyki](http://gist.asciidoctor.org/?github-nataliagra%2Fmy_html%2F%2FMuzyka%2FREADME.adoc).
 
-Moje HTML o Elementach muzyki
+* [Mój HTML o Elementach muzyki](https://NATALIAGRA.github.io/my_html/).
