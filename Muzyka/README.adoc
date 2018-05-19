@@ -38,7 +38,7 @@ image::artykulacja.jpg[c700x420,550]
 
 Przejawia się w uporządkowanym przez kompozytora zbiorze dźwięków występujących po sobie.
 
-image::melodia.jpg[c400x220,450]
+image::melodia.jpg[c300x200,450]
 
 == Harmonia
 
