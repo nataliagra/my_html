@@ -102,7 +102,14 @@ Określa *głośność*, czyli siłę dźwięku.
 
 
 
-The current version of the application is {appversion}.
+= Lightweight Markup Languages
+
+According to Wikipedia...
+
+= User Guide
+Doc Writer <doc.writer@asciidoc.org>
+2012-01-01
+:appversion: 1.0.0
 
 
 
